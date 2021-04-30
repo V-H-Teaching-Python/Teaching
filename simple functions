@@ -1,0 +1,9 @@
+import time
+#This page teaches the basic functions and arithmatic of python.
+print("Print function:")
+time.sleep(0.2)
+print ("This function allows for a piece of code to print characters onto the screen.")
+time.sleep(0.2)
+print ("It uses the word print in lower case then any content that is wanted to be displayed in quotation marks inside of brakets.")
+time.sleep(0.2)
+print ("if i wanted to print - hello world - how would i do it")
