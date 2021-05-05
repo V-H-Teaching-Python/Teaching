@@ -1,5 +1,30 @@
-Simple features of python:
-1) the print feature: This is the single most important function of python and pretty much any piece of code would be useless without it:
+Simple features and Arithmatic of python:
+1) Te print feature: This is the single most important function of python and pretty much any piece of code would be useless without it:
    It looks like this,  print("Hello world")
    The most important parts of this are: The P of print MUST be lower case and the text that you want to print MUST be in double quotation marks , "" .
    The command: print("Hello world") would print to the user's command line application the words- Hello world -
+  
+2)Commnts: A comment makes your code easier to understand and helps un-experianced coders to read the code, many of the programs we will share with you will include many comments.
+  A comment is ignored by the computer so that it dosn't affect the code.
+  A comment is distinguished by a hashtag at the start of the comment for expample:
+ 
+ print("hello world") #This line prints the words: hello world
+ 
+ In visual sudio a comment appears in green font.
+ 
+ Arithmatic
+ 
+ For this section we will be using python and the print command to do arithmatic:
+ to print arithmatic you put the print command as usual but WITHOUT the quotation marks, for example:
+  print(5 + 1)
+  
+ 1) Addition:
+   Addition in python is done with the " + " symbol.
+   For example:
+   5+7 would be shown as- 
+   print(5 + 7)
+   this would give an output of- 12
+   
+ 2) Subtraction:
+    
+ 
