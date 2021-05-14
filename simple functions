@@ -21,10 +21,33 @@ Simple features and Arithmatic of python:
  1) Addition:
    Addition in python is done with the " + " symbol.
    For example:
-   5+7 would be shown as- 
-   print(5 + 7)
-   this would give an output of- 12
+   5+1 would be shown as- 
+   print(5 + 1)
+   this would give an output of '6'
    
  2) Subtraction:
+ Subtraction in python is done with the " - " symbol
+ For example:
+ 5-1 would be shown as-
+ print(5 - 1) 
+ This would give the output of '4'
+ 
+ 3) Multiplication:
+ Multiplication in python is done with the " * " symbol
+ For example:
+ 5x1 would be shown as-
+ print(5 * 1) 
+ This would give the output of '5'
+ 
+ 4)Divison
+ Division in python is done with the " % " symbol
+ For example:
+ 5 divided by 1 would be shown as-
+ print(5 % 1) 
+ This would give the output of '5'
+ 
+ 
+ 
+ 
     
  
