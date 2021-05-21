@@ -40,7 +40,7 @@ Simple features and Arithmatic of python:
  This would give the output of '5'
  
  4)Divison
- Division in python is done with the " % " symbol
+ Division in python is done with the " / " symbol
  For example:
  5 divided by 1 would be shown as-
  print(5 % 1) 
